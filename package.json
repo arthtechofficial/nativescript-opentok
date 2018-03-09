@@ -1,6 +1,6 @@
 {
-  "name": "nativescript-opentok",
-  "version": "2.0.1",
+  "name": "nativescript-opentok-arth2",
+  "version": "2.1.0",
   "description": "Integrates OpenTok for NativeScript.",
   "main": "opentok",
   "nativescript": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sean-perkins/nativescript-opentok.git"
+    "url": "https://github.com/arthtechofficial/nativescript-opentok"
   },
   "keywords": [
     "NativeScript",
@@ -31,22 +31,15 @@
     "iOS",
     "{N}"
   ],
-  "contributors": [
-    {
-      "name": "Osei Fortune",
-      "url": "https://github.com/triniwiz",
-      "email":"fortune.osei@yahoo.com"
-    }
-  ],
   "author": {
-    "name": "Sean Perkins",
-    "email": "sean@meetmaestro.com"
+    "name": "Arthtech Official",
+    "email": "support@arth.tech"
   },
   "bugs": {
-    "url": "https://github.com/sean-perkins/nativescript-opentok/issues"
+    "url": "https://github.com/arthtechofficial/nativescript-opentok/issues"
   },
   "license": "MIT",
-  "homepage": "https://github.com/sean-perkins/nativescript-opentok",
+  "homepage": "https://github.com/arthtechofficial/nativescript-opentok",
   "readmeFilename": "README.md",
   "devDependencies": {
     "tns-core-modules": "^3.0.0",

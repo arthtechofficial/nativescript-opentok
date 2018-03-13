@@ -1,6 +1,6 @@
 {
-  "name": "nativescript-opentok-arth2",
-  "version": "2.1.0",
+  "name": "nativescript-opentok-arthtech",
+  "version": "2.1.4",
   "description": "Integrates OpenTok for NativeScript.",
   "main": "opentok",
   "nativescript": {
@@ -47,7 +47,7 @@
     "typescript": "^2.2.0"
   },
   "dependencies": {
-    "nativescript-permissions":"latest"
+    "nativescript-permissions": "latest"
   },
   "peerDependencies": {
     "tns-core-modules": "3.0.0"

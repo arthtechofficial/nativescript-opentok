@@ -118,6 +118,10 @@ export class TNSOTSubscriber extends View {
 
     }
 
+    removeView() {
+        this.nativeView.removeAllViews();
+    }
+
     toggleVideo() {
         let _isEnabled = this._subscriber.getSubscribeToVideo();
         if (_isEnabled) {
